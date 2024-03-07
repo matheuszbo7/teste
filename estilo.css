@@ -1,0 +1,55 @@
+/* estilo.css */
+
+/* Estilo para o título */
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: #333; /* Cor do texto */
+}
+
+/* Estilo para os cards */
+.card {
+    margin-bottom: 30px;
+}
+
+/* Estilo para o corpo do card */
+.card-body {
+    background-color: #f8f9fa; /* Cor de fundo */
+}
+
+/* Estilo para o título do card */
+.card-title {
+    color: #333; /* Cor do título */
+}
+
+/* Estilo para o texto do card */
+.card-text {
+    color: #555; /* Cor do texto */
+}
+
+/* Estilo para a navegação */
+.navbar {
+    background-color: #343a40; /* Cor de fundo da barra de navegação */
+   
+}
+
+/* Estilo para o link ativo na navegação */
+.navbar .nav-link.active {
+    color: #fff; /* Cor do texto do link ativo */
+}
+
+/* Estilo para o logotipo da navegação */
+.navbar-brand {
+    color: #fff; /* Cor do texto do logotipo */
+}
+
+/* Estilo para o botão de alternância da navegação */
+.navbar-toggler {
+    color: #fff; /* Cor do ícone */
+    border-color: #fff; /* Cor da borda */
+}
+#meub{
+    margin-left: 100px;
+
+
+}
